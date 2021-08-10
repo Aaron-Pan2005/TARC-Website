@@ -20,7 +20,7 @@
 
 <p3> NOTE: Rest of the sessions were build meetings. Please review these slides as you may need to know these important parts when building! <p3>
 
-<h> Finishing Statments: </h>
+<h> Finishing Statments </h>
 <p> YEA TARC has had tremendous efforts at attempting to getting to the Nationals. Recently, we have gone to the Nationals from the year 2019 to 2021 which is quite impressive! Together we strive to make it to the National Finals and hope to get in at the end. Please continue to support YEA TARC Program and promote this program for more new members. Thank you everyone! </p>
   
 <h> Want to test yourself on your knowledge? </h>
