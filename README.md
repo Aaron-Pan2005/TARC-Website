@@ -21,7 +21,7 @@
 <p3> NOTE: Rest of the sessions were build meetings. Please review these slides as you may need to know these important parts when building! <p3>
 
 <h1> Finishing Statments: </h1>
-<p> YEA TARC has had tremendous efforts at attempting to getting to the Nationals. Recently, we have gone to the Nationals from the year 2019 to 2021 which is quite impressive! Together we strive to make it to the National Finals and hope to get in at the end. Please continue to support YEA TARC Program and promote this program for more new members. Thank you everyone! </p>
+<p> The American Rocketry Program is a vigorous extracurricular activity that teaches students about physics and aerospace science. Although TARC can be really competitive, it could help teach many important skills including building, engineeering, and problem solving.</p>
   
 <h> Want to test yourself on your knowledge? </h>
 <p> Here's a fun practice test to go upon your knowledge! It's okay to guess on some of the questions you do not know. Wishing each one of you good luck! </p>
