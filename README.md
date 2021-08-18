@@ -3,7 +3,7 @@
 <p> The American Rocketry Program is a very vigorous extracirrcular activity and can teach many students about physics and aerospace science. Although TARC can be really competitive, it could help teach many important skills including building.</p>
 
 <p align = "center">
-[![TARC Introduction Video](https://img.youtube.com/vi/hud4Y0aYlKM/maxresdefault.jpg)](https://www.youtube.com/watch?v=hud4Y0aYlKM&ab_channel=RoseKong)
+[![TARC Introduction Video](https://img.youtube.com/vi/hud4Y0aYlKM.jpg)](https://www.youtube.com/watch?v=hud4Y0aYlKM&ab_channel=RoseKong)
 </p>
 
 <h2> Video Examples: </h2>
