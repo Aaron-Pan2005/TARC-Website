@@ -33,4 +33,5 @@
   
 <h> Want to test yourself on your knowledge? </h>
 <p> Here's a fun practice test to go upon your knowledge! It's okay to guess on some of the questions you do not know. Wishing each one of you good luck! </p>
-<a href = "https://forms.gle/pCNbYzXZombVNTB26"> TARC Practice Test </a>
+<a href = "https://forms.gle/pCNbYzXZombVNTB26"> TARC Practice Test ![image](https://user-images.githubusercontent.com/61630309/129933669-a5b56096-7e83-49f1-ad8e-6f8273f3464d.png)
+</a>
