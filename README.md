@@ -1,7 +1,7 @@
 # TARC-Website
 <!DOCTYPE html>
 <a href="#videos">
-  <button> Video Examples </button>
+  <button> Video Examples       </button>
 </a>
 <a href="#slides">
   <button> Informational Slides </button>
