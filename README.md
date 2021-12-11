@@ -1,10 +1,13 @@
 # TARC-Website
 <!DOCTYPE html>
 <a href="#videos">
-  <button> Video Examples       </button>
+  <button> Video Examples</button>
 </a>
 <a href="#slides">
   <button> Informational Slides </button>
+</a>
+<a href="#conclude">
+  <button> Concluding Remarks </button>
 </a>
 <h1> The American Rocketry Challenge (TARC) </h1>
 <p> The American Rocketry Program is a very vigorous extracirrcular activity and can teach many students about physics and aerospace science. Although TARC can be really competitive, it could help teach many important skills including building.</p>
@@ -36,6 +39,7 @@
 
 <p3> NOTE: Rest of the sessions were build meetings. Please review these slides as you may need to know these important parts when building! <p3>
 
+<div id = "conclude"> <h2> Conclusion </h2> </div>
 <h1> Finishing Statments: </h1>
 <p> The American Rocketry Program is a vigorous extracurricular activity that teaches students about physics and aerospace science. Although TARC can be really competitive, it could help teach many important skills including building, engineeering, and problem solving.</p>
   
