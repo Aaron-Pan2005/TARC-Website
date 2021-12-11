@@ -20,8 +20,7 @@
 <video width = "560" height = "315" src = "https://user-images.githubusercontent.com/61630309/129845788-5e55524f-c6fa-44bc-8340-a21eaa897a19.mp4" frameborder = "0" allowfullscreen> </video>
 </p>
 
-<div id = "slides"> <h2> TARC Presentation Slides </h2> </div>
-<h1> TARC Presentation Slides </h1>
+<div id = "slides"> <h1> TARC Presentation Slides </h1> </div>
 <p> 1. Introduction to TARC: </p>
 <a href="https://docs.google.com/presentation/d/1wtepb-s_DwCCoto3F6970rQjpYzMOI88xqiHSbGpIro/edit#slide=id.g91d4bf7515_0_0">YEA TARC Summer Camp Session 1 </a>
 
@@ -39,8 +38,7 @@
 
 <p3> NOTE: Rest of the sessions were build meetings. Please review these slides as you may need to know these important parts when building! <p3>
 
-<div id = "conclude"> <h2> Finishing Statments: </h2> </div>
-<h1> Finishing Statments: </h1>
+<div id = "conclude"> <h1> Finishing Statments: </h1> </div>
 <p> The American Rocketry Program is a vigorous extracurricular activity that teaches students about physics and aerospace science. Although TARC can be really competitive, it could help teach many important skills including building, engineeering, and problem solving.</p>
   
 <h> Want to test yourself on your knowledge? </h>
