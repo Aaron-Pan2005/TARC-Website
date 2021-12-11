@@ -3,6 +3,9 @@
 <a href="#videos">
   <button> Video Examples </button>
 </a>
+<a href="#slides">
+  <button> Video Examples </button>
+</a>
 <h1> The American Rocketry Challenge (TARC) </h1>
 <p> The American Rocketry Program is a very vigorous extracirrcular activity and can teach many students about physics and aerospace science. Although TARC can be really competitive, it could help teach many important skills including building.</p>
 
@@ -14,6 +17,7 @@
 <video width = "560" height = "315" src = "https://user-images.githubusercontent.com/61630309/129845788-5e55524f-c6fa-44bc-8340-a21eaa897a19.mp4" frameborder = "0" allowfullscreen> </video>
 </p>
 
+<div id = "slides"> <h2> Informational Slides </h2> </div>
 <h1> TARC Presentation Slides </h1>
 <p> 1. Introduction to TARC: </p>
 <a href="https://docs.google.com/presentation/d/1wtepb-s_DwCCoto3F6970rQjpYzMOI88xqiHSbGpIro/edit#slide=id.g91d4bf7515_0_0">YEA TARC Summer Camp Session 1 </a>
