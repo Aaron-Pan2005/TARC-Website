@@ -15,8 +15,8 @@
 <p> Introduction Video: https://www.youtube.com/watch?v=hud4Y0aYlKM&ab_channel=RoseKong </p>
 
 <div id = "videos"> <h2> Video Examples: </h2> </div>
-<p align = "center">
-<video width = "560" height = "315" src = "https://user-images.githubusercontent.com/61630309/128837699-2505998c-8d7d-4d46-8da2-9ebca6423b22.mp4" frameborder = "0" allowfullscreen> </video>
+<p align = "left">
+<video width = "800" height = "500" src = "https://user-images.githubusercontent.com/61630309/128837699-2505998c-8d7d-4d46-8da2-9ebca6423b22.mp4" frameborder = "0" allowfullscreen> </video>
 <video width = "560" height = "315" src = "https://user-images.githubusercontent.com/61630309/129845788-5e55524f-c6fa-44bc-8340-a21eaa897a19.mp4" frameborder = "0" allowfullscreen> </video>
 </p>
 
