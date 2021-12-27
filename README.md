@@ -14,7 +14,7 @@
 
 <p> Introduction Video: </p> 
 <div id = "videos">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hud4Y0aYlKM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<video width="560" height="315" src="https://www.youtube.com/embed/hud4Y0aYlKM" </video> 
 
 <div id = "videos"> <h2> Video Examples: </h2> </div>
 <p align = "left">
