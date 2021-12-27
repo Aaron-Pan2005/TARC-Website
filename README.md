@@ -21,7 +21,7 @@
 </video>
 <video width = "800" height = "500" controls>
   <source src = "https://user-images.githubusercontent.com/61630309/129845788-5e55524f-c6fa-44bc-8340-a21eaa897a19.mp4" type="video/mp4"> 
-  </video>
+</video>
 
 
 <div id = "slides"> <h1> TARC Presentation Slides </h1> </div>
