@@ -19,7 +19,7 @@
 <video width = "800" height = "500" controls>
   <source src = "https://user-images.githubusercontent.com/61630309/128837699-2505998c-8d7d-4d46-8da2-9ebca6423b22.mp4" type="video/mp4" frameborder="0" allowfullscreen> 
 </video>
-<video width = "560" height = "315" controls>
+<video width = "800" height = "500" controls>
   <source src = "https://user-images.githubusercontent.com/61630309/129845788-5e55524f-c6fa-44bc-8340-a21eaa897a19.mp4" type="video/mp4" frameborder="0" allowfullscreen> </video>
 
 
