@@ -38,7 +38,7 @@
 <p> 5. Building Layout </p>
 <p> <a href = "https://docs.google.com/presentation/d/1pfeqnfcYNPGXf6wUYQGkJ4L_swWxxUKUJOI96PVpR20/edit#slide=id.ge89fda2472_0_0"> YEA TARC Summer Camp Session 5 </a> </p>
 
-<br/> NOTE: Rest of the sessions were build meetings. Please review these slides as you may need to know these important parts when building!
+<p> NOTE: Rest of the sessions were build meetings. Please review these slides as you may need to know these important parts when building! </p>
 
 <div id = "conclude"> <h1> Finishing Statments: </h1> </div>
 <p> The American Rocketry Program is a vigorous extracurricular activity that teaches students about physics and aerospace science. Although TARC can be really competitive, it could help teach many important skills including building, engineeering, and problem solving.</p>
