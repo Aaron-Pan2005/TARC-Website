@@ -12,7 +12,9 @@
 <h1> The American Rocketry Challenge (TARC) </h1>
 <p> The American Rocketry Program is a very vigorous extracirrcular activity and can teach many students about physics and aerospace science. Although TARC can be really competitive, it could help teach many important skills including building.</p>
 
-<p> Introduction Video: <iframe width="560" height="315" src="https://www.youtube.com/embed/hud4Y0aYlKM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+<p> Introduction Video: </p> 
+<div id = "videos">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hud4Y0aYlKM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <div id = "videos"> <h2> Video Examples: </h2> </div>
 <p align = "left">
