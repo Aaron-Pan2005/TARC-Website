@@ -36,13 +36,13 @@
 <a href = "https://docs.google.com/presentation/d/1EAFGcjW8-oYyQiK7Y62JYRKFDwU9To_6sapx2BcQ4x0/edit#slide=id.g8cdc0c9463_0_4640"> YEA TARC Summer Camp Session 4 </a>
 
 <p> 5. Building Layout </p>
-<p> <a href = "https://docs.google.com/presentation/d/1pfeqnfcYNPGXf6wUYQGkJ4L_swWxxUKUJOI96PVpR20/edit#slide=id.ge89fda2472_0_0"> YEA TARC Summer Camp Session 5 </a> </p>
+<a href = "https://docs.google.com/presentation/d/1pfeqnfcYNPGXf6wUYQGkJ4L_swWxxUKUJOI96PVpR20/edit#slide=id.ge89fda2472_0_0"> YEA TARC Summer Camp Session 5 </a>
 
 <p> NOTE: Rest of the sessions were build meetings. Please review these slides as you may need to know these important parts when building! </p>
 
 <div id = "conclude"> <h1> Finishing Statments: </h1> </div>
 <p> The American Rocketry Program is a vigorous extracurricular activity that teaches students about physics and aerospace science. Although TARC can be really competitive, it could help teach many important skills including building, engineeering, and problem solving.</p>
   
-<h> Want to test yourself on your knowledge? </h>
+<p> Want to test yourself on your knowledge? </p>
 <p> Here's a fun practice test to go upon your knowledge! It's okay to guess on some of the questions you do not know. Wishing each one of you good luck! </p>
 <a href = "https://forms.gle/pCNbYzXZombVNTB26"> TARC Practice Test </a>
