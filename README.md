@@ -15,7 +15,7 @@
 <p> Introduction Video: </p> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hud4Y0aYlKM" frameborder="0" allowfullscreen> </iframe>
 
-<p> <h2> Video Examples: </h2> </p>
+<div id = "videos"> <p> <h2> Video Examples: </h2> </p>
 <video width = "800" height = "500" controls>
   <source src = "https://user-images.githubusercontent.com/61630309/128837699-2505998c-8d7d-4d46-8da2-9ebca6423b22.mp4" type="video/mp4" frameborder="0" allowfullscreen> 
 </video>
