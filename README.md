@@ -36,7 +36,7 @@
 <a href = "https://docs.google.com/presentation/d/1EAFGcjW8-oYyQiK7Y62JYRKFDwU9To_6sapx2BcQ4x0/edit#slide=id.g8cdc0c9463_0_4640"> YEA TARC Summer Camp Session 4 </a>
 
 <p> 5. Building Layout </p>
-<a href = "https://docs.google.com/presentation/d/1pfeqnfcYNPGXf6wUYQGkJ4L_swWxxUKUJOI96PVpR20/edit#slide=id.ge89fda2472_0_0"> YEA TARC Summer Camp Session 5 </a>
+<p> <a href = "https://docs.google.com/presentation/d/1pfeqnfcYNPGXf6wUYQGkJ4L_swWxxUKUJOI96PVpR20/edit#slide=id.ge89fda2472_0_0"> YEA TARC Summer Camp Session 5 </a> </p>
 
 <br/> NOTE: Rest of the sessions were build meetings. Please review these slides as you may need to know these important parts when building!
 
