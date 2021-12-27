@@ -14,7 +14,7 @@
 
 <p> Introduction Video: </p> 
 <div id = "videos"> </div>
-<video width="560" height="315" src="https://www.youtube.com/embed/hud4Y0aYlKM" </video> 
+<video width="560" height="315" src="https://www.youtube.com/embed/hud4Y0aYlKM"> </video> 
 
 <div id = "videos"> <h2> Video Examples: </h2> </div>
 <p align = "left">
