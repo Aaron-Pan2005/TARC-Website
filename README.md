@@ -17,8 +17,8 @@
 
 <div id = "videos"> <h2> Video Examples: </h2> </div>
 <video width = "800" height = "500" controls>
-  <source src = "https://user-images.githubusercontent.com/61630309/128837699-2505998c-8d7d-4d46-8da2-9ebca6423b22.mp4" type="video/mp4" frameborder="0" allowfullscreen>
-  <source src = "https://user-images.githubusercontent.com/61630309/129845788-5e55524f-c6fa-44bc-8340-a21eaa897a19.mp4" type="video/mp4" frameborder="0" allowfullscreen> 
+  <source src = "https://user-images.githubusercontent.com/61630309/128837699-2505998c-8d7d-4d46-8da2-9ebca6423b22.mp4" type="video/mp4">
+  <source src = "https://user-images.githubusercontent.com/61630309/129845788-5e55524f-c6fa-44bc-8340-a21eaa897a19.mp4" type="video/mp4"> 
 </video>
 
 
@@ -38,6 +38,7 @@
 <p> 5. Building Layout </p>
 <a href = "https://docs.google.com/presentation/d/1pfeqnfcYNPGXf6wUYQGkJ4L_swWxxUKUJOI96PVpR20/edit#slide=id.ge89fda2472_0_0"> YEA TARC Summer Camp Session 5 </a>
 
+<p> NOTE: Rest of the sessions were build meetings. Please review these slides as you may need to know these important parts when building! </p>
 
 <div id = "conclude"> <h1> Finishing Statments: </h1> </div>
 <p> The American Rocketry Program is a vigorous extracurricular activity that teaches students about physics and aerospace science. Although TARC can be really competitive, it could help teach many important skills including building, engineeering, and problem solving.</p>
