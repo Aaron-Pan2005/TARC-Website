@@ -3,7 +3,8 @@
 <a href="#videos">
   <button> Video Examples </button>
 </a>
-  <button onclick="location.href='infoslides.html'">  Informational Slides </button>
+<a href="#slides">
+  <button> Informational Slides </button>
 </a>
 <a href="#conclude">
   <button> Concluding Remarks </button>
