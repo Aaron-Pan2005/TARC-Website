@@ -2,8 +2,7 @@
 <DOCTYPE html>
 <a href="#videos">
   <button> Video Examples </button>
-</a>
-  <button onclick="location.href='infoslides.html'">  Informational Slides </button>
+<button onclick="window.location.href='infoslides.html'">  Informational Slides </button>
 <a href="#conclude">
   <button> Concluding Remarks </button>
 </a>
