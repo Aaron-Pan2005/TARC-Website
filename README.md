@@ -4,7 +4,6 @@
   <button> Video Examples </button>
 </a>
   <button onclick="location.href='infoslides.html'">  Informational Slides </button>
-</a>
 <a href="#conclude">
   <button> Concluding Remarks </button>
 </a>
