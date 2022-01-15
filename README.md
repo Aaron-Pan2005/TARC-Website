@@ -1,11 +1,9 @@
 # TARC-Website
 <DOCTYPE html>
-<a href="#videos">
-  <button> Video Examples </button>
+<button onclick="window.location.href='videos.html'"> Video Examples </button>
 <button onclick="window.location.href='infoslides.html'">  Informational Slides </button>
-<a href="#conclude">
-  <button> Concluding Remarks </button>
-</a>
+<button onclick="window.location.href='conclude.html'">  Concluding Remarks </button>
+  
 <h1> The American Rocketry Challenge (TARC) </h1>
 <p> The American Rocketry Program is a very vigorous extracirrcular activity and can teach many students about physics and aerospace science. Although TARC can be really competitive, it could help teach many important skills including building.</p>
 
