@@ -1,4 +1,4 @@
-# TARC-Website
+
 <DOCTYPE html>
 <button onclick="window.location.href='videos.html'"> Video Examples </button>
 <button onclick="window.location.href='infoslides.html'">  Informational Slides </button>
